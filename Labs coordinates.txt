@@ -1,0 +1,2 @@
+Name;Latitude;Longitude;Address
+MVZ Labor Passau GmbH;48.59094120567073;13.408409381338561;Wörth 15,94034 Passau

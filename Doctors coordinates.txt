@@ -1,0 +1,79 @@
+Name;Latitude;Longitude;Address
+Allgemeinarztpraxis Gabriel;48.5854131780256;13.491331069970142;Dr.-Fritz-Ebbert-Straße 1, 94034 Passau
+Dr. med. Manfred Kronawitter - Ärztezentrum Passau-Nord;48.58508053631278; 13.483527696448443;Prinz-Eugen-Straße 3, 94034 Passau
+Gemeinschaftspraxis Dres. Doris und Stefan Haversath;48.57070116294672; 13.4708410961064;Kapuzinerstraße 2a, 94032 Passau
+Dr. med. Franz Lischke;48.57402892801037;13.457620649504147;Ludwigspl. 7, 94032 Passau
+Wolfgang M. Gradel;48.57304405966225;13.457609155765246;Nibelungenpl. 2, 94032 Passau
+Praxis Dr. Florian Söhn;48.57210100456528;13.458111864315022;Nibelungenpl. 4, 94032 Passau
+Specialists in general medicine Drs. Ursula & Stefan Hafner;48.57135164360499;13.457835833710572;Kleiner Exerzierpl. 14, 94032 Passau
+Allgemeinarzt Passau, Stadtturm, Dr. med. Angelika Metzger-Weiser;48.57213665632934;13.456677182441009;Nibelungenpl. 1, 94032 Passau
+Gemeinschaftspraxis Dres. Spechter/Stadler/Sauer;48.572995287207895;13.454433373387616;Dr.-Hans-Kapfinger-Straße 14a, 94032 Passau
+Dr. med. Arpad Geller specialist in general medicine;48.57200454536818;13.454803482211236;Dr.-Hans-Kapfinger-Straße 20, 94032 Passau
+Frau Bozena Süme;48.57298177477;13.451604993328331;Grünaustraße 13, 94032 Passau
+Allgemeinarztpraxis Petra van Ingen;48.57304336523717;13.452007686463345;Grünaustraße 13, 94032 Passau
+Dr. med. univ. Markus Schuh;48.57726636099236;13.44336593065504;Bräuhausplatz 12, 94034 Passau
+Gemeinschaftspraxis Dres Hartwig/Huber;48.57798504110168;13.440035806038766;Glockenstraße 6, 94034 Passau
+RADIO-LOG MVZ Passau Schießstattweg, Allgemeinmedizin;48.56940584757705;13.434861020358431;Schießstattweg 60, 94032 Passau
+KVB-Bereitschaftspraxis Passau - Tel. 116117;48.56596104676053;13.445254039179083;Innstraße, am Klinikum 76, 94032 Passau
+Dr. Peter Adelmann;48.56471203353899;13.4342121517427;Neuburger Str. 87, 94036 Passau
+Hausarzt am Messepark dr. (MU Budapest) Lukas Huber;48.55584145694001;13.415479477597051;Dr.-Emil-Brichta-Straße 1, 94036 Passau
+RADIO-LOG MVZ Passau Neustift Allgemeinmedizin;48.57454998034482;13.397776948232398;Steinbachstraße 60, 94036 Passau
+Dr. med. Omar Adjan; 48.57079627442022;13.42282934901473;Spitalhofstraße 94, 94032 Passau
+Dr. Karl Göttl;48.57088308903908;13.423986300068531;Spitalhofstraße 94, 94032 Passau
+Margit Doering;48.56952479457862;13.43410868067678;Schießstattweg 60, 94032 Passau
+Kardiologische Praxis Dr. Lange;48.57152213371036;13.458261222928778;Kleiner Exerzierpl. 11, 94032 Passau
+Praxis Dr. med. Mohamed Adjan;48.58008660585014;13.438353632774527;Stephanstraße 43, 94034 Passau
+RADIO-LOG MVZ Passau Frauenheilkunde und Geburtshilfe;48.56940743286688;13.432769184776474;Schießstattweg 60, 94032 Passau
+Frau Dr. med. univ. Theresa Loidl-Lindemann;48.565629617203456;13.446917293530065;Innstraße 76, 94032 Passau
+Brand, Franz-Hermann, MD, Gynaecologist;48.57257201892346;13.456589263648487;Nibelungenpl. 1, 94032 Passau
+Gabriele Scherrer Frauenärztin;48.572286056927844;13.459052383350878;Kleiner Exerzierpl. 4, 94032 Passau
+Dr. med. Johannes Schneeberger;48.57431597072391;13.45740302911166;Ludwigspl. 4, 94032 Passau
+Praxis für Frauenheilkunde Christian Raab;48.574315970733885;13.458734125751215;Ludwigstraße 18, 94032 Passau
+Dr. med.Ulrike Lange Frauenärztin;48.57506414344742;13.460623215614286;Ludwigstraße 2, 94032 Passau
+Frauenarztpraxis Dr. Weikl;48.57570457505746;13.459449334041395;Wittgasse 9, 94032 Passau
+Markus Gröschler + Marcus Theil;48.55556526853156;13.413524460329242;Dr.-Emil-Brichta-Straße 3, 94036 Passau
+Herr Andreas Spohr;48.56982342451425;13.435984882146554;Schießstattweg 60, 94032 Passau
+Praxis für Neuropsychologie und Verhaltenstherapie;48.57319319199769;13.457644093071364;Nikolastraße 2, 94032 Passau
+Dr.med. Gert Ziemann Facharzt für Nervenheilkunde;48.57406762596723;13.457936804021426;Ludwigspl. 7, 94032 Passau
+Jens Molthan Facharzt für Psychiatrie und Psychotherapie;48.574531461347;13.459952273815022;Ludwigstraße 10, 94032 Passau
+Herr Dr. med. Michael Bayer;48.57534217058563;13.459471129881498;Wittgasse 7, 94032 Passau
+Dr. med. Neville Moriabadi;48.57535184410412;13.459516122835959;Wittgasse 7, 94032 Passau
+Herr Univ. Prof. Dr. med. Eberhard Deisenhammer;48.570654691635475;13.479098263972045;Kapuzinerstraße 36, 94032 Passau
+Praxis Dr. Claudia Cording;48.57104344535313;13.466446664009695;Kirchenpl. 4, 94032 Passau
+Frau Dana Kirmayer;48.572443485447735;13.45894658112317;Kleiner Exerzierpl. 4, 94032 Passau
+Praxis Peter Stadler;48.572593763429026; 13.453126277498438;Firmianstraße 6, 94032 Passau
+Friedrich Walther Facharzt für Allgemeinmedizin;48.57516112402362;13.456326538371808;Am Schanzl 10, 94032 Passau
+Dr. med. Andreas Baumann Facharzt für Anästhesie;48.570065540675046;13.418137319543414;Vornholzstraße 13, 94036 Passau
+Dr. med. Stefan Kuklinski Facharzt für Anästhesiologie;48.569727909077486;13.435101451056184;Schießstattweg 60, 94032 Passau
+Dr.med. Horst Wittner Facharzt für Anästhesiologie;48.57822704867233;13.430799289702847;Tannenstraße 7, 94034 Passau
+Klinikum Passau;48.5647761288693; 13.445923346067282;Innstraße 76, 94032 Passau
+Klinikum Passau Hellge Klinik;48.56964425438667;13.448067865457116;Hochstraße 6, 94032 Passau
+MKG-Praxis Passau-Kohlbruck;48.55612900576603;13.414770662335744;Dr.-Emil-Brichta-Straße 5, 94036 Passau
+MKG CHIRURGIE TOLKSDORF;48.57014723770725;13.423041312740557;Spitalhofstraße 97, 94032 Passau
+Dr. med. Michael von Stetten;48.569632608203584;13.433023377811248;Schießstattweg 60, 94032 Passau
+Frau Dr. med. Annemarie Westhoven;48.57148154261613;13.433314073457854;Holzheimerstraße 8, 94032 Passau
+Herr Dr. med. Markus Czesla;48.56606042944544;13.445318899273184;Innstraße 76, 94032 Passau
+Chirurgische Praxis Dr.med. Wolfgang Wagner;48.56953376174358;13.448137111383849;Hochstraße 6, 94032 Passau
+Herr Dr. med. Michael Eckstein;48.56943795692699;13.432813463603413;Schießstattweg 60, 94032 Passau
+HNO-Ärzte im Stadtturm;48.572336191702725;13.456647405313488;Nibelungenpl. 1, 94032 Passau
+HNO Passau - Dr. med. Christian Hörner, Dr. med. Peter Karschay (angestellt), Dr. med. Markus Kapsreiter (angestellt);48.57135803225811;13.457928346105309;Kleiner Exerzierpl. 14, 94032 Passau
+Venenpraxis am Messepark Rita Steinhauer;48.55567453595647;13.414012380329629;Dr.-Emil-Brichta-Straße 3, 94036 Passau
+Dr. Robert Brandl;48.5697953754119;13.434156594973777;Schießstattweg 60, 94032 Passau
+DR. MED. CLAUS GRUSS;48.5715655112613;13.4586694142008;www.hautarzt, Kleiner Exerzierpl. 14, 94032 Passau
+Dermatologie im Stadtturm;48.57233178445736;13.457356023921552;Nibelungenpl. 1, 94032 Passau
+Frau Dr. med. Jutta Häring;48.574030336106375;13.455633999958602;Bahnhofstraße 11, 94032 Passau
+Dr. med. Beatrix Ullmann dermatologist;48.57425615174265;13.45660630268452;Bahnhofstraße 8, 94032 Passau
+Hautzentrum Passau - Hautärztin Stephanie Dessoi & Kollegen;48.57493578333508;13.456956599777635;Am Schanzl 8, 94032 Passau
+Dr. med. Andrea Wettstein;48.57429355466127;13.458989388075462;Ludwigstraße 18, 94032 Passau
+Dr. med. Andreas Püschel;48.59141184913602;13.482623277564564;Alte Str. 69, 94034 Passau
+Praxis Dr. Schön;48.57139512719789;13.475645235790411;Kapuzinerstraße 47, 94032 Passau
+Dr.med. Mechthild Gassel Praktische Ärztin;48.57140935764832;13.45771959433845;Kleiner Exerzierpl. 14A, 94032 Passau
+Facharztzentrum Schießstattweg;48.569559799977945;13.43329690887499;Schießstattweg 62, 94032 Passau
+Dr.med. Florian Kollinger - Facharzt für Innere Medizin / Hausärztliche Versorgung;48.58507415762301;13.396101650701066;Carossastraße 5 a, 94036 Passau
+RADIO-LOG MVZ Passau Schießstattweg, Kinder- und Jugendmedizin;48.56986603907282;13.434269403197199;Schießstattweg 60, 94032 Passau
+KVB-Bereitschaftspraxis Passau Kinder;48.566491454151;13.446162692378884;an der Kinderklinik Dritter Orden, Bischof-Altmann-Straße 9, 94032 Passau
+Herr Dr. med. Christian Schropp;48.56653415435531;13.446329641032866;Bischof-Altmann-Straße 9, 94032 Passau
+Dr. med. Andreas Pontz, Dr. Konrad Wimmer;48.575018687714675;13.45690367297457;Am Schanzl 8, 94032 Passau
+Kinderarzt Dr. med. Georg Handwerker;48.57432415081952;13.459159666488185;Ludwigstraße 18, 94032 Passau
+Dr. Bernadette Donath Fachärztin für Kinder- und Jugendmedizin;48.574483582354446;13.472108497678974;Michaeligasse 10, 94032 Passau
+
